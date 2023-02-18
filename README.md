@@ -5,5 +5,5 @@
 ```
 
 ```sh
-npm install react-router-dom@5
+npm install react-router-dom@6
 ```
